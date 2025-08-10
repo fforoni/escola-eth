@@ -103,7 +103,7 @@ function App() {
     {
       icon: <Award className="w-6 h-6" />,
       title: "Technical Foundation",
-      description: "Teias FEA-RP blockchain hackathon winner with crypto experience since 2016."
+      description: "Teias FEA-RP USP blockchain hackathon winner with crypto experience since 2016."
     },
     {
       icon: <Target className="w-6 h-6" />,
@@ -444,7 +444,7 @@ function App() {
                   <h4 className="font-semibold text-gray-900 mb-4">Unique Positioning:</h4>
                   <ul className="space-y-2 text-sm text-gray-600">
                     <li>• Current Fatec student experiencing target market daily</li>
-                    <li>• Teias FEA-RP blockchain hackathon winner</li>
+                    <li>• Teias FEA-RP USP blockchain hackathon winner</li>
                     <li>• Multi-university experience (USP background)</li>
                     <li>• Early crypto adopter since 2016</li>
                   </ul>
