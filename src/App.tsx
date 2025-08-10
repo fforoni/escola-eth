@@ -25,7 +25,7 @@ function App() {
       icon: <GraduationCap className="w-8 h-8" />,
       title: "Education Layer",
       description: "NFT-based academic credentials from K-12 through PhD with fraud-proof verification and cross-institutional portability.",
-      domains: "escola.eth → faculdade.eth → universidade.eth"
+      domains: "escola.eth + faculdade.eth + universidade.eth"
     },
     {
       icon: <FileCheck className="w-8 h-8" />,
@@ -98,17 +98,17 @@ function App() {
     {
       icon: <Network className="w-6 h-6" />,
       title: "Bridge Strategy",
-      description: "Web2 → Web3 migration path eliminates blockchain adoption friction. 67% user retention proven."
+      description: "Seamless Web2 → Web3 migration path eliminates blockchain adoption friction."
     },
     {
       icon: <Award className="w-6 h-6" />,
       title: "Technical Foundation",
-      description: "Teias FEA-RP blockchain graduate with formal certification and crypto experience since 2016."
+      description: "Teias FEA-RP blockchain hackathon winner with crypto experience since 2016."
     },
     {
       icon: <Target className="w-6 h-6" />,
       title: "Direct Market Access",
-      description: "Current Fatec student with insider access to 300K+ target users and institutional trust."
+      description: "Current Fatec student in InfoSec with insider access to 90K+ target users and institutional trust."
     }
   ];
 
@@ -201,9 +201,9 @@ function App() {
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Strategic ENS Domain Portfolio</h3>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
                 <div className="bg-gradient-to-r from-green-500 to-green-600 text-white px-3 py-2 rounded-lg font-medium">escola.eth</div>
-                <div className="bg-gradient-to-r from-blue-500 to-blue-600 text-white px-3 py-2 rounded-lg font-medium">universidade.eth</div>
-                <div className="bg-gradient-to-r from-purple-500 to-purple-600 text-white px-3 py-2 rounded-lg font-medium">nome.eth</div>
-                <div className="bg-gradient-to-r from-orange-500 to-orange-600 text-white px-3 py-2 rounded-lg font-medium">brazildao.eth</div>
+                <div className="bg-gradient-to-r from-blue-500 to-blue-600 text-white px-3 py-2 rounded-lg font-medium">faculdade.eth</div>
+                <div className="bg-gradient-to-r from-purple-500 to-purple-600 text-white px-3 py-2 rounded-lg font-medium">universidade.eth</div>
+                <div className="bg-gradient-to-r from-orange-500 to-orange-600 text-white px-3 py-2 rounded-lg font-medium">nome.eth</div>
               </div>
               <p className="text-gray-600 mt-3 text-sm">20+ strategic domains valued at $2M+ creating an unreplicable competitive moat</p>
             </div>
@@ -444,7 +444,7 @@ function App() {
                   <h4 className="font-semibold text-gray-900 mb-4">Unique Positioning:</h4>
                   <ul className="space-y-2 text-sm text-gray-600">
                     <li>• Current Fatec student experiencing target market daily</li>
-                    <li>• Teias FEA-RP blockchain program graduate</li>
+                    <li>• Teias FEA-RP blockchain hackathon winner</li>
                     <li>• Multi-university experience (USP background)</li>
                     <li>• Early crypto adopter since 2016</li>
                   </ul>
@@ -453,7 +453,7 @@ function App() {
                   <h4 className="font-semibold text-gray-900 mb-4">Strategic Assets:</h4>
                   <ul className="space-y-2 text-sm text-gray-600">
                     <li>• 20+ ENS domains creating competitive moat</li>
-                    <li>• 300K+ student network through Fatec system</li>
+                    <li>• 90k+ student network through Fatec system</li>
                     <li>• Institutional relationships via student status</li>
                     <li>• Technical + Business background</li>
                   </ul>
@@ -502,7 +502,7 @@ function App() {
                   </div>
                   <div className="ml-4">
                     <h4 className="font-semibold mb-2">Proven Execution</h4>
-                    <p className="text-gray-300">Direct market access through 300K+ student network with 90-day MVP plan.</p>
+                    <p className="text-gray-300">Direct market access through 90k+ student network with 90-day MVP plan.</p>
                   </div>
                 </div>
               </div>
@@ -571,7 +571,7 @@ function App() {
           </div>
 
           <div className="bg-gradient-to-r from-green-100 to-blue-100 rounded-2xl p-8">
-            <h3 className="text-2xl font-bold text-gray-900 mb-4">From a Fatec student's problem to a nation's transformation.</h3>
+            <h3 className="text-2xl font-bold text-gray-900 mb-4">From a serial-dropout problem to a nation's transformation.</h3>
             <p className="text-lg text-gray-700 mb-6">This isn't just a business opportunity. It's the foundation of Brazil's digital future.</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="https://fatec.app" className="bg-white text-gray-900 px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all">
